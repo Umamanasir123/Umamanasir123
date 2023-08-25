@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Umamanasir
-- 👀 I’m interested in developing websites and mobile apps and want to work on different IT projects
-- 🌱 I’m currently learning Software Engineering from NEDUET.
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in developing websites and mobile apps and would like to work on different IT projects. Also exploring DataScience and Machine Learning. 
+- 🌱 I’m currently a final year student of Software Engineering at NED University.
+- 💞️ I have done internships at Dawlance, NCAI Smart City Lab(NEDUET), Interns Pakistan(Remote).
 - 📫 How to reach me ...
 
 <!---
